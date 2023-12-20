@@ -126,12 +126,14 @@ body{
         flex-direction: column-reverse;
         padding: 5%;
     }
-    body{
-        background-color: #0F2167;
-    }
+    /* body{
+       background-color: #0F2167;
+    }*/
     .apresentacao__conteudo{
         width: auto;
     }
+    .apresentacao__imagem{
+        width: 60%;
+    }
 
-   
 }
