@@ -103,7 +103,7 @@ body{
     /*border: 4px double;*/
 }
 .apresentacao__imagem{
-    width: 50%;
+    width: 40%;
 }
 .rodape{
     color:var(--cor-primaria);
@@ -133,7 +133,7 @@ body{
         width: auto;
     }
     .apresentacao__imagem{
-        width: 60%;
+        width: 40%;
     }
 
 }
